@@ -8,7 +8,8 @@
     top: 0;
     left: 0;
     transition: 0.4s;
-    overflow: hidden;
+    overflow-x:hidden;
+
 }
 
 .logo {
